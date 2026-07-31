@@ -1,3 +1,4 @@
+#this is the docker file
 FROM python:3.11-slim
 
 WORKDIR /app
