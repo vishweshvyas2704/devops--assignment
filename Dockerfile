@@ -1,4 +1,4 @@
-#this is the docker file
+#this is the docker file, right
 FROM python:3.11-slim
 
 WORKDIR /app
