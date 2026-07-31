@@ -12,7 +12,7 @@ This project is a real-time WebSocket chat application, containerized with Docke
 - **Deployment:** AWS EC2 (free tier)
 - **CI/CD:** GitHub Actions (auto-deploy on push to `main`)
 
-**Live URL:** `http://<YOUR_EC2_PUBLIC_IP>`
+**Live URL:** `http://13.126.4.97`
 
 ---
 
