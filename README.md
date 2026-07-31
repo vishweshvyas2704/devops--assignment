@@ -1,4 +1,4 @@
-Real-Time Chat App — Dockerized Deployment with NGINX & CI/CD
+# Real-Time Chat App — Dockerized Deployment with NGINX & CI/CD
 1. Project Overview
 
 This project is a real-time WebSocket chat application, containerized with Docker and deployed behind an NGINX reverse proxy on an AWS EC2 instance. The application was provided with a deliberately broken deployment configuration; this repository contains the debugged, working setup along with an automated CI/CD pipeline using GitHub Actions.
